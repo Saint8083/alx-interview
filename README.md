@@ -1,6 +1,7 @@
 In mathematics, Pascal's triangle is a triangular array of the binomial coefficients arising in probability theory, combinatorics, and algebra. In much of the Western world, it is named after the French mathematician Blaise Pascal, although other mathematicians studied it centuries before him in Persia,[1] India,[2] China, Germany, and Italy.[3]
 
 
+![68747470733a2f2f67616c746f6e626f6172642e636f6d2f436f6e74656e742f496d616765732f616e696d617465642d70617363616c732d747269616e676c652e676966](https://github.com/Saint8083/alx-interview/assets/122878923/c4a8bf14-51cd-4920-8c0e-7e3d185fce13)
 
 #HISTORY
 
